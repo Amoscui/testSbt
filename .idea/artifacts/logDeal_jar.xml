@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logDeal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/logDeal_jar</output-path>
+    <root id="archive" name="testsbt.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/scala11/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="testSbt" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/大数据学习资料/0704/mysql-connector-java-5.6-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/大数据学习资料/0703/spark-assembly-1.6.1-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/大数据学习资料/0703/spark-examples-1.6.1-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/大数据学习资料/0706/jedis-2.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
